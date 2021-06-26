@@ -1,1 +1,1 @@
-x*y = blah
+x/y = blah
